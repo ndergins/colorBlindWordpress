@@ -1,4 +1,4 @@
-=== colorExtract ===
+=== colorEyes ===
 
 Contributors: Gabriel Allison, Nicholas Dergins
 Requires at least: 5.8.2
@@ -8,18 +8,13 @@ Stable tag: 1.0.0
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-The colorExtract Wordpress plugin finds the most common color on your web site
+This plugin will adjust webpage elements to adapt for any form of colorblindness.
 
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
+When using this plugin, users may select any type of colorblindness and the plugin will adapt page elements to be accessible
+for that form of colorblindness.
 
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
-
-A few notes about the sections above:
-
-*   "Contributors" is a comma separated list of wordpress.org usernames
 *   "Tags" is a comma separated list of tags that apply to the plugin
 *   "Requires at least" is the lowest version that the plugin will work on
 *   "Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
